@@ -1,7 +1,7 @@
 # 🌍 Global Literacy & Education Dashboard
 
 ## 🔗 Live App
-[Click Here]([your-streamlit-link](https://global-education-dashboard-677bmpztnyqtj9w5sbdu4q.streamlit.app/))
+[[Click Here]([your-streamlit-link](https://global-education-dashboard-677bmpztnyqtj9w5sbdu4q.streamlit.app/))](https://global-education-dashboard-677bmpztnyqtj9w5sbdu4q.streamlit.app/)
 
 ## 📊 Features
 - SQL Query Executor (13 queries)
